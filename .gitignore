@@ -1,0 +1,66 @@
+# Ignore Next.js build output
+/.next/
+
+# Ignore serverless build output
+/.serverless/
+
+# Ignore the `.next` directory which contains the server-side rendering (SSR) build files
+.next/
+
+# Ignore the `.serverless` directory which contains the serverless build files
+.serverless/
+
+# Ignore the `out` directory which contains the static export build files
+/out/
+
+# Ignore environment variables file
+.env
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn errors file
+yarn-error.log*
+
+# Ignore any log files
+*.log
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Next.js cache
+.next/cache/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore build artifacts and files generated during development
+/build/
+/.vercel
+/vercel.json
+
+# Ignore package-lock.json for npm
+package-lock.json
+
+# Ignore yarn.lock for Yarn
+yarn.lock
+
+# Ignore .env.local file
+.env.local
+
+# Ignore .env.development.local file
+.env.development.local
+
+# Ignore .env.test.local file
+.env.test.local
+
+# Ignore .env.production.local file
+.env.production.local
+
+# Ignore storybook's .out directory
+.storybook-out/
