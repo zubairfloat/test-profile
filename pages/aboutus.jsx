@@ -34,7 +34,7 @@ const AboutUs = () => {
           </div>
           <div className="col-lg-7 m-15px-tb">
             <div className="about-me">
-              <h4>I'M Muhammad Ali</h4>
+              <h4>I'M Muhammad Zubair</h4>
               <h6>
                 A Lead <span className="theme-color">UX &amp; UI</span> designer
                 based in <span className="theme-color">Asia</span>

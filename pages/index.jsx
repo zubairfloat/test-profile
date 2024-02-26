@@ -8,7 +8,7 @@ const MainHome = () => {
           <div className="col-md-6">
             <div className="ht-text">
               <h6>Hello there...</h6>
-              <h1>Muhammad Ali</h1>
+              <h1>Muhammad Zubair</h1>
               <h2>
                 I Am Passionate <TypingAnimation />
               </h2>
