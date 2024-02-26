@@ -7,7 +7,7 @@ const Services = () => {
             <div className="section-title">
               <h3 className="dark-color text-uppercase">My Services</h3>
               <p className="text-uppercase small">
-                A Lead UX &amp; UI designer based in Canada
+                A Lead UX &amp; UI designer based in Pakistan
               </p>
             </div>
           </div>

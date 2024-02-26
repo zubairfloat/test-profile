@@ -58,7 +58,7 @@ const AboutUs = () => {
                   </div>
                   <div className="media">
                     <label>Residence</label>
-                    <p>Canada</p>
+                    <p>Pakistan</p>
                   </div>
                   <div className="media">
                     <label>Address</label>

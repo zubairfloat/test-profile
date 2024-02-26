@@ -7,7 +7,7 @@ const About = () => {
             <div className="section-title">
               <h3 className="dark-color text-uppercase">ABOUT ME</h3>
               <p className="text-uppercase small">
-                A Lead UX &amp; UI designer based in Canada
+                A Lead UX &amp; UI designer based in Pakistan
               </p>
             </div>
           </div>
@@ -37,7 +37,7 @@ const About = () => {
               <h4>I'M Muhammad Zubair</h4>
               <h6>
                 A Lead <span className="theme-color">UX &amp; UI</span> designer
-                based in <span className="theme-color">Canada</span>
+                based in <span className="theme-color">Pakistan</span>
               </h6>
               <p>
                 I design and develop services for customers of all sizes,
@@ -58,7 +58,7 @@ const About = () => {
                   </div>
                   <div className="media">
                     <label>Residence</label>
-                    <p>Canada</p>
+                    <p>Pakistan</p>
                   </div>
                   <div className="media">
                     <label>Address</label>
